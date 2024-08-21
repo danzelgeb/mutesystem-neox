@@ -1,0 +1,13 @@
+name: MuteSystem
+version: 1.0
+main: de.danzel34.mutesystem.MuteSystem
+author: danzel_34
+description: MuteSystem
+api-version: 1.21
+commands:
+  mute:
+    description: Mute a player
+    usage: /mute <player> <reason>
+  unmute:
+    description: Unmute a player
+    usage: /unmute <player>
